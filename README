@@ -1,2 +1,8 @@
-pip install binance-connector
+Если у вас установлен jupyter notebook: 
 запустите файл orderer
+
+Если нет:
+С помощью терминала выполните в папке, куда скачали проект
+pip install binance-connector
+Запустите main.py
+python3 main.py
